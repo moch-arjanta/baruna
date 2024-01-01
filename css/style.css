@@ -15275,6 +15275,10 @@ header .header-cart-icon .cart-count {
   transform: scale3d(1, 1, 1);
 }
 
+.bisnis-kami .col.cover-background.xs-h-150px img {
+  padding: 65px;
+}
+
 /* portfolio classic */
 .portfolio-classic .portfolio-box .portfolio-image>a {
   position: relative;
