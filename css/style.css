@@ -2161,6 +2161,9 @@ a.text-gradient-fuego-turquoise-hover:hover {
 /* ===================================
     05. Custom
 ====================================== */
+.feature-box.text-start.feature-box-show-hover.box-shadow-small-hover.feature-box-bg-white-hover.border-all.border-color-black-transparent.overflow-hidden {
+  background-color: #fff;
+}
 
 section {
   padding: 80px 0;
